@@ -1,0 +1,309 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An argument, shewing that 'tis impossible for the nation to be rid of the grievances occasioned by the great number both of quacks and empericks in law and physick, without an utter experpation of both With proposals for a new constitution. Written after the manner of the argument against the marshal of the Kings-Bench, and warden of the Fleet. By way of letter to a member.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 30 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75545</idno>
+            <idno type="STC">Wing A3634B</idno>
+            <idno type="STC">ESTC R230975</idno>
+            <idno type="EEBO-CITATION">99896746</idno>
+            <idno type="PROQUEST">99896746</idno>
+            <idno type="VID">170772</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75545)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170772)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2433:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An argument, shewing that 'tis impossible for the nation to be rid of the grievances occasioned by the great number both of quacks and empericks in law and physick, without an utter experpation of both With proposals for a new constitution. Written after the manner of the argument against the marshal of the Kings-Bench, and warden of the Fleet. By way of letter to a member.</title>
+                  <author>Ponteus, John.</author>
+               </titleStmt>
+               <extent>[6], 18 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed, and sold by C. D. in T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>M DC XCIX. [1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Dedication signed: Johannes Ponteus.</note>
+                  <note>Running title reads: An argument against quacks and empiricks, &amp;c</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+               <term>Great Britain --  Social conditions --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-11</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170772:1"/>
+            <p>AN ARGUMENT Shewing that 'tis Impoſſible for the NATION TO BE Rid of the Grievances Occaſioned by the great Num<g ref="char:EOLhyphen"/>bers both of <hi>Quacks</hi> and <hi>Empericks</hi> in <hi>Law</hi> and <hi>Phyſick,</hi> without an utter Exterpation of both.</p>
+            <p>WITH <hi>Propoſals</hi> for a New Conſtitution.</p>
+            <p>Written after the manner of the Argument againſt the <hi>Marſhal</hi> of the <hi>Kings-Bench,</hi> and <hi>Warden</hi> of the <hi>Fleet.</hi>
+            </p>
+            <p>By way of Letter to a Member.</p>
+            <q>Cuncta prius tentenda. <bibl>Metamorph. <hi>Lib.</hi> 1.</bibl>
+            </q>
+            <q>
+               <l>Read but his Book and Stool will follow,</l>
+               <l>As if you did his <hi>Bolus</hi> ſwallow.</l>
+               <bibl>
+                  <hi>Saffold</hi>'s Epitaph.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed, and ſold by <hi>C. D.</hi> in <hi>T.</hi> M DC XCIX.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170772:2"/>
+            <pb facs="tcp:170772:2"/>
+            <head>
+               <hi>TO S<hi rend="sup">IR</hi>
+               </hi> JOHN BASHFORD <hi>OF</hi> Braſs-Hall, <hi>Barr.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THO' I have not the Honour of an Ac<g ref="char:EOLhyphen"/>quaintance <note place="margin">
+                  <hi>Ded.</hi> p. 3.</note> with you, yet ſince I found <hi>I. B.</hi> to an Argument in Print, that ſeemed to Aim at nothing but the Publick good, beſides conſidering the ſoftneſs of the ſtyle, the ſtrength of Argument, and the Maſculine expreſ<g ref="char:EOLhyphen"/>ſions in it, I could conclude nothing leſs than that your Polite Pen drew it.</p>
+            <p>It was becauſe you were ſo great an Inſtance of <note place="margin">
+                  <hi>Ded. p.</hi> 3.</note> the Oppreſſion which the Gentry of <hi>England,</hi> as well as the Tradeſmen and Commonalty La<g ref="char:EOLhyphen"/>bour under; that I preſumed to Affix your Name to theſe Papers, which I am ſure are wrote with no other Deſign than to Advance the Publick Ad<g ref="char:EOLhyphen"/>vantage,
+<pb facs="tcp:170772:3"/>
+by endeavouring to ſuppreſs a Neſt of Pestilent Vipers, who have ſtung, and been e<g ref="char:EOLhyphen"/>qually pernicious to all Ranks and Degrees of Men, except only thoſe who have nothing to loſe.</p>
+            <p>You know that the Glory of <hi>England</hi> conſists in their Liberty and Property, I mean their Per<g ref="char:EOLhyphen"/>ſons and Eſtates, which are the Pillars of the Government, and muſt be maintained and ſup<g ref="char:EOLhyphen"/>ported, <note place="margin">
+                  <hi>Ded. p.</hi> 3.</note> but both are weakned and terribly ſhaken, the one by Quacks in Phyſick, and the o<g ref="char:EOLhyphen"/>ther by Empericks in Law; of which I Queſtion not but your own Experience can give the World ſame lively Instances.</p>
+            <p>
+               <hi>—Pudet haec opprobria dici.</hi>
+            </p>
+            <p>I ſhall not Instance in Trade or Credit, you have ſo feelingly deſcribed both, that I muſt con<g ref="char:EOLhyphen"/>cur with you in that Axiom you have laid down; That Credit is Neceſſary to Trade, eſpecially when the Emptor wants Money to buy with, and <note place="margin">
+                  <hi>Ded. p.</hi> 5.</note> if one ſhall happen to Trust a Knave (as Mo<g ref="char:EOLhyphen"/>deſtly ſpeaking it is two to one but he does) who will not pay, not only his Profit, but his Prime cost is loſt, as it was the caſe of a Periwigmaker
+<pb facs="tcp:170772:3"/>
+that Trusted a <hi>Bar.</hi> of the <hi>Inner-Temple;</hi> and the Wounds of Friends ſtrike deeper, and are more fatal than thoſe of Open Enemies.</p>
+            <p>What I hear ſhall Indeavour to expoſe (and <note place="margin">
+                  <hi>Ded. p.</hi> 6.</note> I hope the Parliament, that Auguſt Aſſembly, will Apply a Remedy) is thoſe two publick Nu<g ref="char:EOLhyphen"/>ſances of Quacks in Phyſick, and Pettifoggers in Law; who by Colour of Practiſing the two No<g ref="char:EOLhyphen"/>blest Profeſſions and Sciences, are the greateſt Oppreſſors, or Invaders of our Liberty and Pro<g ref="char:EOLhyphen"/>perty (the greateſt Bleſſings of the Subject) by their Villainy, Ignorance, Extortion; and Im<g ref="char:EOLhyphen"/>pudence.</p>
+            <p>I hope your goodneſs will Apologize for this Confidence of mine, but I could prefix no other Name, conſidering that it was your Penetrating Judgment that Diſſipated thoſe Opacous Sha<g ref="char:EOLhyphen"/>dows that clouded our Courts of Justice, and blindedt he faculties of our <hi>Patriotical</hi> Lawyers; 'tis your <hi>Corinthian</hi> Countenance alone that could Confront that <hi>Leviathan,</hi> that eat up the Laws as a Scholar would a Commons; 'twas you alone, that out of a Publick Spirit in this Noble field, Summoned to our Aid all the faculties both of your Body and Mind, your Wit, your Judg<g ref="char:EOLhyphen"/>ment, your Law, your Manly Strength and
+<pb facs="tcp:170772:4"/>
+Courage, againſt this Great and Common Ene<g ref="char:EOLhyphen"/>my.</p>
+            <p>Sir, It is you alone may properly be ſaid to have diſcovered theſe Mysteries of iniquity, and given us a Key to theſe ſecluſe and Inſcrutable Myſteries of <hi>Marſhals</hi> and <hi>Gaolers,</hi> and Clipt the Wings of theſe <hi>Dragons.</hi>
+            </p>
+            <p>In a Word, 'tis you alone, that have effectu<g ref="char:EOLhyphen"/>ally Imployed your Incomparable <hi>Cerebellum</hi> in Diving into theſe Obstruſe Dunghills, and Raking into thoſe Noiſom places, with your penetrating Judgment, like a Mathematical Tel<g ref="char:EOLhyphen"/>leſcope, for one born in a Dungeon could not have gone deeper, or bred up in a Goal, diſcovered their Villainies and Exactions better.</p>
+            <p>I could wiſh, and really the World may juſtly expect, it from your Mercurial head and Calcin'd Brain, that ſince you have afforded the publick this Project, you would likewiſe aſſiſt the State with your Politicks; whereby they will be convin<g ref="char:EOLhyphen"/>ced, that you are a Great Projector, a Profound Polititian, as well as a <hi>Patriotical</hi> Lawyer.</p>
+            <closer>
+               <salute>I am, Sir,</salute>
+               <signed>
+                  <hi>Your Humble Servant.</hi> Johannes Ponteus.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:170772:4"/>
+            <head>AN ARGUMENT <hi>Shewing that 'tis Impoſſible for the Nation to be rid of the Grievances, occaſioned by the great Numbers of</hi> Quacks <hi>and</hi> Empiricks, <hi>both in</hi> Law <hi>and</hi> Phyſick, <hi>without an utter exter<g ref="char:EOLhyphen"/>pation of both.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>SInce I am informed that the</hi> Grand Inqueſt <hi>of the Nation hath reſolved once more to take into conſideration the publick Abuſes and Grievances, I thought it my Duty, as an Engliſh Man,</hi> (who by Birth-right am Intitu<g ref="char:EOLhyphen"/>led <note place="margin">Arg. p. 1.</note> to all the Benefits of the Nobleſt Conſti<g ref="char:EOLhyphen"/>tution, if I had not been deceived by Wh—rs, and what is worſe, afterwards abuſed by Clap-Doctors) <hi>to offer my ſentiments in order to have thoſe Grievances redreſſed, for there can be no greater ſcandal to a Government than to ſuffer it ſelf to be thus Wounded in the Vital Part,</hi> I ſhall not entertain you any longer upon a Subject which is ſo obvious to common View, when there are ſo many Decollated Members, and flat Faces, that I think you need no o<g ref="char:EOLhyphen"/>ther
+<pb n="2" facs="tcp:170772:5"/>
+Demonſtration; I ſhall therefore only let you ſee what a late Act of Parliament does expreſly ſet forth in the Preamble; Stat. 14, 15, <hi>H.</hi> 8. Cap. 5.</p>
+            <p>
+               <hi>And foraſmuch that the making of the ſaid Cor<g ref="char:EOLhyphen"/>poration is Meritorious and very good for the Com<g ref="char:EOLhyphen"/>mon-wealth of this Realm, it is therefore expedi<g ref="char:EOLhyphen"/>ent and neceſſary to provide that no Perſon of the ſaid Politick Body and Commonalty afore<g ref="char:EOLhyphen"/>ſaid, be ſuffered to exerciſe and practiſe Phy<g ref="char:EOLhyphen"/>ſick, but only thoſe Perſons that be profound, ſad and Diſcreet, groundedly Learned, and deeply Studied in Phyſick.</hi>
+            </p>
+            <p>
+               <hi>And, Sir, I am ſorry to ſay that ſuch a fatality</hi> 
+               <note place="margin">Arg. p. 2.</note> 
+               <hi>ſhould attend the perſons of great Numbers of his Majesties Subjects; that even the good intent of the Statutes, ſeems to be wholly Eluded.</hi> The weekly Bills of Mortality do abundantly teſtifie the truth of this Aſſertion, ſo that all <hi>the mighty advantages, which that Act was thought to produce, prove imperfect and abortive, and our great expectations dwindled into air; for if the</hi> pretended Phyſician does but ſubſcribe himſelf of the Colledge of Phyſicians and Graduate in the Univerſity, he is expreſly excepted out of that Statute, and by this means, and Poſting up their Bills at e<g ref="char:EOLhyphen"/>very
+<pb n="3" facs="tcp:170772:5"/>
+Corner, how many pretty young Gentle<g ref="char:EOLhyphen"/>men are drawn into their Powdering Tubs, that never get whole out again.</p>
+            <p>I cannot omit to let you know, that be<g ref="char:EOLhyphen"/>fore this time the <hi>Morbus Neapolitanus</hi> was got into theſe Kingdoms, for it ſucceed<g ref="char:EOLhyphen"/>ed the Britiſh Pox, our Legiſlature thought it high time to Apply a Cataplaſm to ſo inveterate a Canker by erecting a Barrier a<g ref="char:EOLhyphen"/>gainſt ſo Potent an Enemy, which they did by the Statute, 3 <hi>H.</hi> 8. Cap. 11. The Preamble of which ſays,</p>
+            <p>
+               <hi>That for as much as the Science and cunning of Phyſick and Surgery, is daily within this Realm exerciſed by a great multitude of ignorant Per<g ref="char:EOLhyphen"/>ſons, of whom the greater part have no manner of inſight in the ſame, or in any other kind of Learning, ſome alſo can no Letters on the Book Read, ſo far forth that common Artificers as Smiths, Weavers, and Women boldly and accu<g ref="char:EOLhyphen"/>ſtomably take upon them great Cures, and things of great difficulty, in which they partly uſe Sorcery and Witchcraft,</hi> &amp;c.</p>
+            <p>I ſhall not need here to Comment upon the Text, to tell you how Women are com<g ref="char:EOLhyphen"/>mon Artificers within the Letter of this Law, or what it was that did ſo much conduce to
+<pb n="4" facs="tcp:170772:6"/>
+the great Infamy of the faculty, but de<g ref="char:EOLhyphen"/>ſcribe the Grievous hurt, damage and de<g ref="char:EOLhyphen"/>ſtruction of many of the King's Liege Peo<g ref="char:EOLhyphen"/>ple, which the Statute chiefly complains off.</p>
+            <p>It happen'd then with many Young Gen<g ref="char:EOLhyphen"/>tlemen as it happen'd lately with a Barr. at Law, who having the Misfortune to light on a Frigot, which he had in his Cruize pick'd up, and brought to Port, through the Straits of <hi>Mytre Court,</hi> and laid her up in his Cubicle, and had all that Night the ſatisfaction of Solacing himſelf in the Cab<g ref="char:EOLhyphen"/>bin of his Prize, but <hi>Proh Dolor!</hi> about Ten Days after, it proved a Fireſhip, that ſet fire to his Boltſplit, and he to ſecure his Tarr-barrel, preſently applies himſelf to Famous Dr. <hi>W—</hi>a Diſciple of <hi>Saffolds,</hi> who had a <hi>Panacea</hi> that Cured all Diſtem<g ref="char:EOLhyphen"/>pers; but whether miſtaking the Conſtitu<g ref="char:EOLhyphen"/>tion of his Patient, or for want of <hi>Skill, Sadneſs, and Profundity,</hi> or whether he uſed Sorcery and Witchcraft, as the Statute deſcribes (for had you ſee him Poor Gentle<g ref="char:EOLhyphen"/>man, you would have ſworn he was be<g ref="char:EOLhyphen"/>witch'd.) The Lawyer grew worſe and worſe; for notwithſtanding his Purging, Vomiting,
+<pb n="5" facs="tcp:170772:6"/>
+Smoaking, Scraping, Injecting and Saliva<g ref="char:EOLhyphen"/>ting, the Fire increaſed, and every part began to be in a Flame<hi>:</hi> In ſhort all the <hi>Aqua Te<g ref="char:EOLhyphen"/>trachimagogon,</hi> between <hi>Waping</hi> and <hi>Weſt<g ref="char:EOLhyphen"/>minſter,</hi> was not able to Waſh it out, ſo that it was with his Body Natural, as it was with your Body Politick, <hi>pag.</hi> 2. where <hi>the Ma<g ref="char:EOLhyphen"/>lignant diſtemper which had long raged in the</hi> 
+               <note place="margin">Arg. p. 3.</note> 
+               <hi>Bowels was not now in its Infancy; It was grown up, and was arrived at its full ſtrength and Vigour, and was radicated in the blood, and now does maintain its Poſt, Bravado like; and bids Defiance to the feeble Arts of Vulgar Phyſick; what then is to be done to ſtop the Progreſs of this Inveterate Cancer, why they must purſue</hi> 
+               <note place="margin">
+                  <hi>P.</hi> 3.</note> 
+               <hi>the ſame Methods in this mighty Cure, as ſome Phyſicians uſe in Chronical Diſeaſes, where all the Nervous Juices, and the whole Maſs of Blood is Corrupted</hi> (viz.) <hi>A</hi> Thorough Flux, <hi>that the whole Malignancy may be rooted out, and a new ſtream of blood run in freſh and untainted Channels; for I am of Opinion, that all other Remedies will be but patching; we may be eaſed a While from Pain, but the rank Poiſon ſtill re<g ref="char:EOLhyphen"/>mains, and will ſoon get head again, in ſpight of all theſe Temporary Applications.</hi>
+            </p>
+            <p>Pardon me if I have uſed your own Words,
+<pb n="6" facs="tcp:170772:7"/>
+for you have deſcribed it ſo naturally, that the beſt Phyſician, who wanted your Ex<g ref="char:EOLhyphen"/>perience, unleſs he had it by inſtinct, could not have done it better.</p>
+            <p>But now, Sir, I ſhall want your Pen, your Parts, and your Experience, to diſ<g ref="char:EOLhyphen"/>play all the miſchiefs that attended the Igno<g ref="char:EOLhyphen"/>rance of this Quack; I will only mention three or four, and firſt by this means he was confined of his Liberty againſt the expreſs Words of the <hi>Habeas Corpus</hi> Act, and what was worſe, it was thought by the moſt Judicious, that a Writ <hi>de Homine Replegiando</hi> would not lie in this Caſe, but only a <hi>Corpus cum cauſa.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> He was not only forced to ſwal<g ref="char:EOLhyphen"/>low ten dozen of your <hi>Pilulae Auriae,</hi> your <hi>Mercurius dulcis, Calomeli Salvitriale, ſal vola<g ref="char:EOLhyphen"/>tile Olioſum,</hi> but alſo to apply <hi>Cataplaſms, Fomentations, <g ref="char:V">Ʋ</g>nctions, Injections, Cum Multis aliis,</hi> &amp;c.</p>
+            <p>
+               <hi>Thirdly,</hi> He loſt a whole Terms practice, and was ſtrangely worſted in his Circuit, being diſappointed at <hi>Wincheſter,</hi> ſlighted at <hi>Salisbury,</hi> rejected at <hi>Dorchester,</hi> repulſed at <hi>Exeter,</hi> and Laughed at in <hi>Taunton;</hi> he was forced to retire to <hi>Bath,</hi> to be Cured of
+<pb n="7" facs="tcp:170772:7"/>
+the Scab, where we will leave him for a while making Court to a young Lady (but with his Gloves on.)</p>
+            <p>
+               <hi>Now, Sir, to come to the main point, in or<g ref="char:EOLhyphen"/>der</hi> 
+               <note place="margin">Arg. p. 3.</note> 
+               <hi>for redreſs, I take the firſt ſtep towards it, to be an Inquiry into the cauſe that prevents the good deſigns of thoſe Statutes, which I take to a clauſe in a ſubſequent Statute,</hi> viz. <hi>Stat.</hi> 32. <hi>H.</hi> 8. <hi>c.</hi> 42.</p>
+            <p>
+               <hi>And be it further enacted, that no manner of Perſon, within the City of</hi> London, <hi>or</hi> Suburbs, <hi>of the ſame, uſing any Barbery, or Shaving, or that hereafter ſhall uſe any Barbery, or Shaving, he, nor they, nor none other for them, to his, or their uſe, ſhall Occupy any Surgery, Letting of Blood, or any other thing belonging to Surgery; (Drawing of Teeth only excepted.) And farther<g ref="char:EOLhyphen"/>more, in like manner, whoſoever uſeth the Craft or Myſtery of Surgery within</hi> London, <hi>as long as he ſhall fortune to uſe the ſaid Myſtery or Craft of Surgery, ſhall in no wiſe Occupy, nor exerciſe the Feat, or Craft of Barbery, or Shaving, nei<g ref="char:EOLhyphen"/>ther by himſelf, nor by none other for him, to his or their uſe,</hi> &amp;c.</p>
+            <p>It would admit of a Diſpute, whether the <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> mentioned in this Statute be with<g ref="char:EOLhyphen"/>in the Statute of Uſes, but I leave that to the
+<pb n="8" facs="tcp:170772:8"/>
+Learned Mooters, before <hi>Littleton,</hi> and <hi>Cook;</hi> but to return to our buſineſs, <hi>after this ſmall Digreſſion, for I labour to be ſhort, This unfortunate Act of Parliament commits</hi> 
+               <note place="margin">Arg. p. 21.</note> 
+               <hi>a Violence on it ſelf, ſeems to be a</hi> felo de ſe, <hi>and by a fatal Contradiction gives its own Heart a Mortal Wound, beſides, it renders the former Acts Ineffectual: For ſuppoſe that the Malignant Diſtemper ſhould get head</hi> (as you know 'tis Poſſible) <hi>ſo as ſome, or one Member is ſo Mortified, as its neceſſary to have his Noſe, or Penis, ſaved, or ſuppoſe the</hi> Prepulium <hi>muſt be Circumciſed an Inch deeper,</hi> than the Le<g ref="char:EOLhyphen"/>vitical Law did require, how can this be done, if a Surgeon muſt not ſhave, nor a Barber uſe Surgery, <hi>Sed Immedicabile Vulnus enſe recidendum est, certainly a great Miſt cloud<g ref="char:EOLhyphen"/>ed</hi> 
+               <note place="margin">
+                  <hi>P.</hi> 12.</note> 
+               <hi>their underſtandings, for every Vulgar Eye might with the firſt glance have diſcovered the Weakneſs of this Act which is made in direct Op<g ref="char:EOLhyphen"/>poſition of its deſign; this is the reverſe and An<g ref="char:EOLhyphen"/>tipodes of the other Statutes, and are no more</hi> 
+               <note place="margin">
+                  <hi>P.</hi> 7.</note> 
+               <hi>reconcilable, than the North and Southern Poles; But (as you Wiſely Obſerve) Acts ought to be ground upon the moſt ſolid and refined reaſon ima<g ref="char:EOLhyphen"/>ginable; a Reaſon acquired by a long Study, Ob<g ref="char:EOLhyphen"/>ſervation and Experience, and I may boldly ſay,</hi>
+               <pb n="9" facs="tcp:170772:8"/>
+               <hi>that had our Gentleman, we left last at</hi> Bath, <hi>had the Penning of this Act, he would have O<g ref="char:EOLhyphen"/>mitted this Clauſe.</hi> Now for the redreſs of this miſchief, <hi>I think that it is fit the Legiſla<g ref="char:EOLhyphen"/>ture</hi> 
+               <note place="margin">
+                  <hi>P.</hi> 3.</note> 
+               <hi>ſhould be called on for aid, to repeal this Clauſe,</hi> and in the next place, that ſome Law may be made to promote <hi>that Righteous</hi> 
+               <note place="margin">
+                  <hi>P.</hi> 5.</note> 
+               <hi>and Holy Act of Marriage, for what for want of a Settlement, many good Matches are broke off, and it is hard a Man ſhould be puniſhed for ha<g ref="char:EOLhyphen"/>ving no Estate;</hi> I will give you a lively In<g ref="char:EOLhyphen"/>ſtance of what difficulties a Gentleman had in his Amours, and <hi>notwithſtanding he was a Man Active indeed, and puſhed forward for</hi> 
+               <note place="margin">
+                  <hi>P.</hi> 5.</note> 
+               <hi>Matrimony,</hi> wanted neither Aſſurance nor Perſonal Endowments; for from the Crown of his head, to the Sole of his Feet, he was obſervable; his Hat was of a Rotund Figure, and the Crown of it Capacious ſuit<g ref="char:EOLhyphen"/>able to the Contents, his Forehead was lofty, and indeed he was all Effrontery, his Eyes were Quick and Lively, and Mathe<g ref="char:EOLhyphen"/>matical in their poſitions, the one Rect, the other Oblique (as a late Learned Author looked when he was Characteriſing the Judges of the laſt, and the preſent Reign) his Noſe Oblong, his Mouth Opacous, his
+<pb n="10" facs="tcp:170772:9"/>
+Chin Obtuſe, and in a Word his Face O<g ref="char:EOLhyphen"/>val, his Arms long, his Hands Brocarded, or rather Imbroidered, his Body Erect, his Legs equal, and his Feet exact, and did watch the Motions of his Eyes; beſides he was well proportioned, his Wig puft, his Face painted, his Cloths perfumed, his An<g ref="char:EOLhyphen"/>teriors powdered, and his Pedeſtals Poliſhed. Thus Accompliſhed and accoutred, he ſallies into the City, and makes an Attack upon a Fair Virgin, and carries with him, as his great Artillery, a Grant of the Office of <hi>Cuſtos Castri de T.</hi> wherewith to Jointure her, after many ſoft Expreſſions, Winning Looks, and pretty Paſſages, he had pre<g ref="char:EOLhyphen"/>pared his Battery, he fires upon her, and tells her, he was <hi>Cuſtos Caſtri de T:</hi> This ſo frighted her at firſt, that ſhe apprehend<g ref="char:EOLhyphen"/>ing he had ſaid he was <hi>Agnes de Caſtro,</hi> that he was forced to uſe all his Eloquence to ſtop her, until he had undeceived her; but ſhe told him ſhe would conſider of it, and ſo diſmiſſed him, with a Gracious Congee, and he was not wanting to Return it (ha<g ref="char:EOLhyphen"/>ving Learned to Dance) with an Obſe<g ref="char:EOLhyphen"/>quious Devoir. The Lady Conſulted in the mean while a <hi>Patriotical Lawyer,</hi> who told
+<pb n="11" facs="tcp:170772:9"/>
+her, <hi>Cuſtos Caſtri</hi> was Latin for a Gaoler, and that if it ſhould be ſettled on her for a Jointure, there would be a double danger, the one in Caſe ſhe ſhould be a Widow, ſhe could not Marry the Man ſhe had a Mind to, if he happen'd to be a Priſoner, <hi>but the Law would adjudge him out of Priſon, for he cannot</hi> 
+               <note place="margin">Arg. p. 5.</note> 
+               <hi>be in Ward to his Wife (as he ought to be) for there would be an eſcape in Law, and a forfeiture of her Jointure, the other is in caſe this Office ſhould deſcend to her Son and Heir, being at that time</hi> 
+               <note place="margin">
+                  <hi>P.</hi> 4.</note> 
+               <hi>Impriſoned there; Now the Law adjudges him to be immediately at large, though he has fetters on his Feet, becauſe he cannot keep himſelf in Priſon, Plowden fol.</hi> 37. For theſe and other weighty Reaſons, this young Gentleman, the next approach he made, was repulſed not<g ref="char:EOLhyphen"/>withſtanding he was <hi>Active and puſhed for<g ref="char:EOLhyphen"/>ward for Matrimony. And is it not hard that he ſhould be puniſhed for a Righteous and Holy Act.</hi>
+            </p>
+            <p>Now as it is neceſſary to repeal this Clauſe, ſo it is as <hi>highly neceſſary that the Aſ<g ref="char:EOLhyphen"/>ſiſtance of the Legiſlature ſhould be imployed to correct the Daring inſolency and Villainy of other</hi> 
+               <note place="margin">Arg. p. 28.</note> 
+               <hi>Men, as well as the ignorance and Impudennce of the former:</hi> and though it is neceſſary that
+<pb n="12" facs="tcp:170772:10"/>
+a Surgeon ſhould be a Barber; yet it is not neceſſary that a <hi>Barri.</hi> ſhould be a <hi>Beau,</hi> a Pleader a Phyſician, an Attorney an A<g ref="char:EOLhyphen"/>pothecary, for I could wiſh we had that Parliament you ſo ingeniouſly deſcribe, pag. 12. <hi>that Immortal and Prophetick Parliament. And ſince I chance to mention that Generous and Heroick Senate; I cannot forbear making this ſhort Obſervation. It was</hi> Caſſandra <hi>like; theirs and the whole Nations <g ref="char:V">Ʋ</g>nſpeakable Cala<g ref="char:EOLhyphen"/>mity, not to be beleived, for which ſtubborn and vaſtly Pernitious, and only not fatal Blindneſs of the Church (for there it went) what a Chain of Horrours, Darkneſs and Confuſions, did en<g ref="char:EOLhyphen"/>ſue; what a Scene of Tragical Tyrannies and Depredations were every where Diſplaied through<g ref="char:EOLhyphen"/>out the Britiſh Iſle. Our Civil Rights were loſt and intirely ſwallowed up by that voracious Monſter called</hi> Prerogative of the Crown, <hi>and our Religious ones were reduced to the very Brink and Precipice of deſtruction; but when the Church looked down and ſaw the great Abyſs in which they were Eternally to ſink, then they cryed out for Help, and Providence brought them an Aſſiſ<g ref="char:EOLhyphen"/>tance, which hath ('tis true) redeemed us, but not without the expence of Millions of Sacrifices offered up, not of beaſts, as thoſe of the Antients</hi>
+               <pb n="13" facs="tcp:170772:10"/>
+               <hi>were; but of the Noblest Humane Blood and Treaſure,</hi> This was ſuch a Rapture of thought that one would have gueſſed you had been as high as ever St. <hi>Paul</hi> was, for it goes a Barrs length beyond all the Phan<g ref="char:EOLhyphen"/>taſms of <hi>Patmos;</hi> for you have deſcri<g ref="char:EOLhyphen"/>bed it in a more Noble and Divine Style. Pardon me if only for my own better Infor<g ref="char:EOLhyphen"/>mation, I only ask of you two or three Queſtions; for that our Sublunary Judg<g ref="char:EOLhyphen"/>ments and Underſtandings are not able to penetrate into theſe ſublime and lofty In<g ref="char:EOLhyphen"/>ſpirations: And firſt, Sir, will you let us know, in the ſecond part of your Argument, by way of Appendix, what is become of that <hi>Immortal and Prophetick Parliament, that Heroick and Generous Senate;</hi> for I cannot gueſs where their Immortality is put, unleſs <hi>in that Etetnal Abyſs in which the Church was to have Dropt,</hi> or what do you mean elſe by the Parentheſis <hi>(there it went).</hi> Next, Sir, <hi>what was that stubborn, vaſtly Pernicious, and Fatal Blind Church,</hi> that you intend? The Church at <hi>Corinth,</hi> or any of the ſeven Churches of <hi>Aſia.</hi> And laſtly, if that Vo<g ref="char:EOLhyphen"/>racious Monſter called <hi>Prerogative of the</hi> 
+               <note place="margin">Arg. p. 13.</note> 
+               <hi>Crown, or that Terrible</hi> Leviathan, <hi>that cracks</hi>
+               <pb n="14" facs="tcp:170772:11"/>
+               <hi>the Sinews of the Body Politick,</hi> or Daniel<hi>'s Dragon did eat Moſt.</hi> Sir, if you would but be pleaſed to ſatisfie the World in theſe particulars, by Printing them apart, or to<g ref="char:EOLhyphen"/>gether, with your Judicious Argument made againſt that voracious Monſter; in the Caſe of <hi>le Roy</hi> and <hi>Tucker,</hi> it would wonderfully ſatisfie the World, divert the Ingenious, and profit the Judicious.</p>
+            <p>
+               <hi>But to purſue the Thread of my diſcourſe;</hi> 
+               <note place="margin">Arg. p. 13.</note> 
+               <hi>after this ſmall Digreſſion, I am of Opinion, that more Millions of Sacrifices have been offered up, of the Noblest Humane Blood and Treaſure, to thoſe two Impudent Monsters, Quacks in Phyſick, and Empericks in Law, than either of the three Monsters above mentioned.</hi> And now I will give an inſtance of the Latter.</p>
+            <p>The Triangular Caſe that you put, pag. 21. of <hi>Johnſon, Boulter,</hi> and <hi>Norwood,</hi> &amp;c. is ſomething like a Weſt Country Man that hath two Sons, and many Daughters, who may be included in the <hi>&amp;c.</hi> But the Fa<g ref="char:EOLhyphen"/>ther, in his Caſtle, is a Gaoler, in the Town an Attorney, in the Country a Knave; his eldeſt Son in the City is a Beau, in the Temple a Barriſter, and in the Country a Beau Pleader; his Youngeſt in the City is
+<pb n="15" facs="tcp:170772:11"/>
+a Cully, in the Country a Bully, and in Practice a Booby. Now is it not intolerable, nay inſufferable, that one Family ſhould have ſo many Profeſſions, whilſt other honeſt Men ſtarve for want of that Stock of Aſ<g ref="char:EOLhyphen"/>ſurance which theſe have, and of which they have made a Monopoly; and beſides ſee the Conſequence of this, the Father brings a Writ <hi>de Libertatibus Castri ſui Allocandis,</hi> the eldeſt Son he Adviſes, Di<g ref="char:EOLhyphen"/>rects, Draws, and in ſhort, is Council in General; the Youngeſt he Sollicites and Manages it, and it had done much Miſ<g ref="char:EOLhyphen"/>chief, if the Lawyer had not hapned to ſue out <hi>licentia de Malo Lecti,</hi> and loſt a Term, and ſo it was diſcontinued.</p>
+            <p>I inſtance in this, becauſe <hi>'tis Poſterity I am</hi> 
+               <note place="margin">Arg. p. 14.</note> 
+               <hi>Labouring for; what if in Proceſs of time a De<g ref="char:EOLhyphen"/>luge of Oppreſſion and Tyranny ſhould again o<g ref="char:EOLhyphen"/>verwhelm us? What if ſuch a precious ſett of Judges and Gaolers ſhould be Trumpt up, as the late Reign produced?</hi> Why then a <hi>Cuſtos Caſtri</hi> would have been as good as a Colonel of Foot, and a Council, or Sollicitor's place to the Gaol, not leſs than a Chaplains, or Surgeons.</p>
+            <p>But to return to our Blade at <hi>Bath,</hi> he be<g ref="char:EOLhyphen"/>tween
+<pb n="16" facs="tcp:170772:12"/>
+Bathing and Sweating, <hi>Mercury</hi> and <hi>Sulphur, Corroſives</hi> and <hi>Cataplaſms,</hi> looked like a <hi>Cynocephalus,</hi> or <hi>Scrofulus,</hi> ſome thought he reſembled the Bird on Bough, thin-favour<g ref="char:EOLhyphen"/>ed and Sharp, others the <hi>Cokotoe</hi> of <hi>Surinam;</hi> but for my part, I thought him moſt like <hi>Rablais</hi> his Gooſe-Neck, or that which the <hi>Ganzas</hi> dropt, when they carried <hi>Don Ro<g ref="char:EOLhyphen"/>derigo</hi> from <hi>Tenariff,</hi> to the Moon; yet not<g ref="char:EOLhyphen"/>withſtanding this, he ſtill purſues his A<g ref="char:EOLhyphen"/>mours, and the Relations of the Young Lady, fearing he ſhould Baſilisk-like kill her at the firſt ſight, ſends for her home, he not diſ<g ref="char:EOLhyphen"/>couraged with that, took it for a Modeſt Invitation to follow her, which he was not wanting to do, but found ſo cold a Re<g ref="char:EOLhyphen"/>ception, that he was forced to Retreat, but left ſuch Symptons in the Sheets, as put the Servants to the trouble of a ſeparate Waſh; upon this he retires to Mortify himſelf, and lives upon the ſlender nouriſhment of <hi>Calo<g ref="char:EOLhyphen"/>mels, Panis Porcinus, Olibanum, Hypocyſtis, Mummya, Saſſafras, Sarſaparilla, Radix Con<g ref="char:EOLhyphen"/>trayerva, Roſalger,</hi> &amp;c. and is not ſeen, until at laſt he appears in Print.</p>
+            <p>To Conclude, I verily believe, that your voracious Monſters called the <hi>Prerogative of</hi>
+               <pb n="17" facs="tcp:170772:12"/>
+               <hi>the Crown,</hi> has more puzled the Politicians, and your <hi>Terrible Leviathan,</hi> the <hi>Patriotical Lawyers,</hi> then the P-x has the Phyſicians, or the Red-Dragon in the Revelations (that had ſeven Heads and ten Horns) has the <hi>Caſuiſts,</hi> to ſolve how many Horns he had on every Head.</p>
+            <p>
+               <hi>Having thus made the way clear, through</hi> 
+               <note place="margin">Arg. p. 21.</note> 
+               <hi>untroden paths, and I hope given you convincing proofs, from ſome Repoſitories of our Law, that the Managment of theſe Profeſſions is Diametri<g ref="char:EOLhyphen"/>cally oppoſite to the deſign and Reaſon of them, and wholly inconſistent with the Noble Frame of this our Constitution; I come now to offer my Hum<g ref="char:EOLhyphen"/>ble Propoſals for a New and Regular Eſtabliſh<g ref="char:EOLhyphen"/>ment of theſe Profeſſions, which are an Eſſential Part of the Common-Wealth.</hi>
+            </p>
+            <p n="1">1. Firſt, That every one that has been Clapt or Fluxed ſhall not ſet up for a Do<g ref="char:EOLhyphen"/>ctor; no, though he has been <hi>thorough Fluxed,</hi> yet that ſhall not Intitle him to be a <hi>Saffold,</hi> or a <hi>High-German</hi> Doctor.</p>
+            <p n="2">2. That Phyſicians ſhall diſtinguiſh be<g ref="char:EOLhyphen"/>tween the Welch, and the French Pox, and between the Itch and the Scurvy.</p>
+            <p n="3">3. That none ſhall expoſe, or vend the Famous <hi>Aqua Tetrachimagogon,</hi> or preſume
+<pb n="18" facs="tcp:170772:13"/>
+to Print or Publiſh Bills, or Affix them ei<g ref="char:EOLhyphen"/>ther to Poſt or Pillory, but ſuch as are Graduates.</p>
+            <p n="4">4. That a <hi>Habeas Corpus cum Cauſa</hi> ſhall be allowed to bring up the Party, in caſe he ſhall be reſtrained of his Liberty, or confined to the Powdering Tub above a Month, eſ<g ref="char:EOLhyphen"/>pecially if it be Term time, and the Party be either Barr. or Att.</p>
+            <p n="5">5. That there ſhall be a diſtinction in point of Honour between <hi>Cuſtos Castri,</hi> and <hi>Cuſtos Gaolae.</hi>
+            </p>
+            <p n="6">6. That no Caſtles, Gaols, or Priſons, ſhall be ſettled by way of Jointures for fear of Eſcapes.</p>
+            <p n="7">7. That though Chirurgeons may be al<g ref="char:EOLhyphen"/>lowed to be Barbers, yet no Barr. to be Beaus, Fortune-Hunters, Projectors, or Quack-Do<g ref="char:EOLhyphen"/>ctors.</p>
+            <p>
+               <hi>Sir, I ſhall ſum up all with this ſhort Addition by way</hi> 
+               <note place="margin">Arg. p. 28.</note> 
+               <hi>of Corollary, That 'tis viſible to the World, what Prodigi<g ref="char:EOLhyphen"/>ous Miſchiefs accrue to the Common-wealth by theſe Cat<g ref="char:EOLhyphen"/>terpillars, and I hope we ſhall have another</hi> Antaeus <hi>riſe to Correct the Ignorance, Inſolence, and Villainy, of this Infernal Crew, that ſeems to grapple with the Almighty Power of this Infernal Orb. And I am clearly of Opi<g ref="char:EOLhyphen"/>nion that the Miſchiefs and Deſtructions, which daily ariſe from them are not leſs Dangerous to our Conſtituti<g ref="char:EOLhyphen"/>on, than a ſtanding Army: and as the one is to be Disband<g ref="char:EOLhyphen"/>ed, the other will be diſſipated and confounded.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170772:13"/>
+         </div>
+      </body>
+   </text>
+</TEI>
